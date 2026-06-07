@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "whopaid-scaffold",
-    "slug": "whopaid-scaffold",
+    "name": "whopaid",
+    "slug": "whopaid",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
